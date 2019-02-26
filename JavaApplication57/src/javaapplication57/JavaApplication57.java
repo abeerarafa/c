@@ -15,8 +15,7 @@ public class JavaApplication57 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-    
-int x;        
+          
 int y;
 int z;
 // TODO code application logic here
