@@ -18,6 +18,7 @@ public class JavaApplication57 {
     
 int x;        
 int y;
+int z;
 // TODO code application logic here
     }
     
